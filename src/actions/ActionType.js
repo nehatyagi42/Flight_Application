@@ -1,0 +1,8 @@
+export const ON_RESULT = "ON_RESULT";
+export const ON_INIT = "ON_INIT";
+//Register
+export const REGISTER_SUCESSFULL = 'REGISTER_SUCESSFULL'
+export const REGISTER_FAILURE = 'REGISTER_FAILURE'
+//Login
+export const LOGGIN_SUCCESSFULL = 'LOGGIN_SUCCESSFULL'
+export const LOGGIN_FAILURE = 'LOGGIN_FAILURE'
